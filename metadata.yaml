@@ -1,5 +1,8 @@
 _repo: Illustrated-History-of-Furniture--From-the-Earliest-to-the-Present-Time_12254
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Litchfield, Frederick
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '4282'
     url: http://www.gutenberg.org/2009/agents/4282
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12254#Illustrated-History-of-Furniture--From-the-Earliest-to-the-Present-Time
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
